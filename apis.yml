@@ -51,7 +51,7 @@ tags:
 - ADAS
 - Sensor Calibration
 - Automation
-- Computer-Vision
+- Computer Vision
 tags_raw:
 - Company
 - Automotive
@@ -61,6 +61,7 @@ tags_raw:
 - Sensor Calibration
 - Automation
 - Computer Vision
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
